@@ -3,12 +3,13 @@ class script(object):
 ɪ'ᴍ ᴊᴜsᴛ ᴀ sɪᴍᴘʟᴇ ᴘʀᴇ-ғᴜɴᴄᴛɪᴏɴᴇᴅ ᴀᴜᴛᴏғɪʟᴛᴇʀ ʙᴏᴛ.
 ɪᴛs ᴇᴀsʏ ᴛᴏ ᴜsᴇ ᴍᴇ ; ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀs ᴀᴅᴍɪɴ"""
 
-    ABOUT_TXT = """<b>‣ My Name : {}
-‣ Dᴇᴠᴏʟᴏᴘᴇʀ: <a href='https://t.me/TGxIRFAN'>𝐀𝐒 𝐓𝐆</a>
-‣ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
-‣ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
-‣ DᴀᴛᴀBᴀsᴇ : <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>"""
+    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/filesharebotusers>AML UPDATES</a>
+✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 7
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: KUNCHAKO 𝚟3.0.0"""
 
+        OWNER_TXT = """✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/filesharebotusers>AML UPDATES</a>
+Contact Owner for more details through:-"""
 
     STATUS_TXT = """<b>➥ ᴛᴏᴛᴀʟ ғɪʟᴇs: <code>{}</code>
 ➥ ᴛᴏᴛᴀʟ ᴜsᴇʀs: <code>{}</code>
@@ -34,7 +35,6 @@ Nᴀᴍᴇ - {}"""
 🏷 𝐓𝐢𝐭𝐥𝐞 : {title}
 🎭 𝐆𝐞𝐧𝐫𝐞𝐬 : {genres}
 🌟 𝐑𝐚𝐭𝐢𝐧𝐠 : {rating}
-🎛 𝐂𝐨𝐮𝐧𝐭𝐫𝐢𝐞𝐬 : {countries}
 
 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 {message.chat.title}</b>"""
 
